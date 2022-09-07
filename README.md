@@ -22,4 +22,6 @@ git clone https://github.com/Bubblelives/react-demos.git
 npm install 
 
 npm run dev
+
+npm run build
 ```
