@@ -14,7 +14,7 @@
 
 技术栈:
 
-     ```javscript
+     ```
         react                18.2.0
         vite                 3.1
         styled-components    5.3.5
@@ -35,7 +35,7 @@
 
 技术栈：
 
-```javscript
+```
     react                18.2.0
     vite                 3.1
     styled-components    5.3.5
