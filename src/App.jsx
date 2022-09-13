@@ -1,7 +1,5 @@
 import { useState } from "react";
 import "./App.css";
-import Card from "./components/Card/Card";
-import Home from "./pages/Home/Home.jsx";
 import Routes from "@/router/router.jsx";
 
 function App() {
