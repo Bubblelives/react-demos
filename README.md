@@ -21,7 +21,7 @@
 
 #### 使用 Netlify 部署静态 website
 
-[在线预览](react-demos.netlify.app)
+[在线预览](https://react-demos.netlify.app)
 
 ### 下载使用
 
