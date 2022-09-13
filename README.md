@@ -14,7 +14,7 @@
 
 技术栈:
 
-     ```
+```
         react                18.2.0
         vite                 3.1
         styled-components    5.3.5
@@ -22,7 +22,7 @@
 
       + antd-mobile          5.22.0
       + react-dom-router     6.3.0
-    ```
+```
 
 
 # 2022.9.7
