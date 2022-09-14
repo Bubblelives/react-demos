@@ -25,7 +25,7 @@ const Item = () => {
 
 const style = {
   display: "flex",
-  "justify-content": "space-around",
+  justifyContent: "space-around",
 };
 
 const List = () => {
