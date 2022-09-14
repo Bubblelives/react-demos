@@ -7,7 +7,23 @@
 [在线预览](https://react-demos.netlify.app)
 
 
-# 2020.9.13
+# 2022.9.14 
+
+## 新增redux的使用，简易加减运算
+
+技术栈:
+```
+        react                18.2.0
+        vite                 3.1
+        styled-components    5.3.5
+        animejs              3.2.1
+        antd-mobile          5.22.0
+        react-dom-router     6.3.0
+
+      + redux                4.2.0
+```
+
+# 2022.9.13
 
 ## 完善结构
 引入组件库和路由

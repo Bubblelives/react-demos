@@ -3,21 +3,29 @@ const Item = () => {
     {
       id: 1,
       name: "Card——购物卡片",
+      time: "2022-9-7",
     },
     {
       id: 2,
-      name: "",
+      name: "利用redux简易计算",
+      time: "2022-9-14",
     },
   ];
   return (
     <>
       {items.map((item) => (
-        <li key={item.id}>
+        <li key={item.id} style={style}>
           <div>{item.name}</div>
+          <div>{item.time}</div>
         </li>
       ))}
     </>
   );
+};
+
+const style = {
+  display: "flex",
+  "justify-content": "space-around",
 };
 
 const List = () => {

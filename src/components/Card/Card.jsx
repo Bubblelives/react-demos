@@ -2,6 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import { Wrapper } from "./style";
 import anime from "animejs";
 
+//购物卡片
 export default function Card(props) {
   const { src, price } = props;
 
