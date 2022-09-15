@@ -6,6 +6,15 @@
 
 [在线预览](https://react-demos.netlify.app)
 
+# 2022.9.15
+
+## 新增移动端适配
+
+但是目前适配仅仅是等比缩放，并没有实现更大屏幕显示更多内容，比如iPad端，这仍然需要探索和适配。
+
+适配思路：设置默认字体大小20px，即1rem = 20px，并且以iPhone 4的640px屏幕宽度为适配基底，相对iPhone 6的750px屏幕宽度进行设计并适配缩放。
+
+思路来源：[React + Redux仿写哔哩哔哩移动端首页+会员购页面](https://github.com/gemini-hjl/bilibili-page.git)
 
 # 2022.9.14 
 
